@@ -1,0 +1,16 @@
+{
+  "name": "mergeshop-admin",
+  "version": "1.0.0",
+  "description": "Admin Dashboard untuk platform e-commerce Merge Shop",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --no-clipboard",
+    "start": "npx serve . -p 3000 --no-clipboard"
+  },
+  "keywords": ["admin", "dashboard", "ecommerce", "mergeshop"],
+  "author": "Merge Shop Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
